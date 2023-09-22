@@ -1,0 +1,5 @@
+import GenerateJoke from "./Quiz"
+import "../styles/css/index.css"
+import "../styles/scss/index.scss"
+// import "../assets/images"
+// import "../assets/svg"
